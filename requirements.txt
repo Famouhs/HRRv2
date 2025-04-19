@@ -1,0 +1,6 @@
+streamlit
+pandas
+selenium
+joblib
+beautifulsoup4
+requests
